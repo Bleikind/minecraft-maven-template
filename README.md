@@ -4,14 +4,14 @@ It is designed to simply create plugins without caring about loading commands an
 Simply to learn how to use maven and load custom user data from a custom data source.
 
 ## Based on
-#####Frameworks:
+###Frameworks:
 - maven
-#####Dependencies:
+###Dependencies:
 - [Lombok](https://projectlombok.org)
 - [Spigot](https://www.spigotmc.org/wiki/spigot-maven/)
 - [Reflections](https://github.com/ronmamo/reflections)
 
-#####IDE settings:
+###IDE settings:
 - Using IntelliJ 2020
 - JDK 15.0.1
 - Language level: 8
