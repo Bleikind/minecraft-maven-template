@@ -4,19 +4,23 @@ It is designed to simply create plugins without caring about loading commands an
 Simply to learn how to use maven and load custom user data from a custom data source.
 
 ## Based on
-###Frameworks:
+### Frameworks:
+
 - maven
-###Dependencies:
+### Dependencies:
+
 - [Lombok](https://projectlombok.org)
 - [Spigot](https://www.spigotmc.org/wiki/spigot-maven/)
 - [Reflections](https://github.com/ronmamo/reflections)
 
-###IDE settings:
+### IDE settings:
+
 - Using IntelliJ 2020
 - JDK 15.0.1
 - Language level: 8
 - IDE plugins: lombok
 ## How to use?
+
 I would prefer [IntelliJ](https://www.jetbrains.com/de-de/idea/) 2018 or newer.
 
 Download the project. You can replace the project name and version in the [pom.xml](pom.xml) also plugin settings like main class and version number.
